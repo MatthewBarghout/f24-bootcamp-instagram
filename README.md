@@ -1,7 +1,8 @@
 # Instagram Demo
 
 # ScreenShot:
-![App Screenshot](instaDemo.png)
+![App Screenshot](<img width="455" alt="instaDemo" src="https://github.com/user-attachments/assets/2373c18e-86df-4c88-95d2-edf18c2dc26e" />
+)
 
 
 
@@ -9,7 +10,7 @@
 
 This is a simple Instagram-like UI demo built using SwiftUI. 
 
-- What does it do?**  
+- What does it do?  
   This app presents a basic post layout with:
   - An author section displaying the user's profile image and username.
   - An image displayed as the post's content.
