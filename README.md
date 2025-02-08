@@ -1,8 +1,7 @@
 # Instagram Demo
 
 # ScreenShot:
-![App Screenshot](<img width="455" alt="instaDemo" src="https://github.com/user-attachments/assets/2373c18e-86df-4c88-95d2-edf18c2dc26e" />
-)
+![App Screenshot](instaDemo.png.png)
 
 
 
