@@ -1,7 +1,6 @@
 # Instagram Demo
 
-# ScreenShot:
-![App Screenshot](instaDemo.png)
+
 
 
 
