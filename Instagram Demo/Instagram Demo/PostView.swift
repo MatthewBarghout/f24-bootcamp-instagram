@@ -11,18 +11,18 @@ struct AuthorView: View {
     var body: some View {
         VStack(alignment: .leading, spacing:8) {
             HStack(spacing:8) {
-            Image("myImage")
+            Image("dracula")
                     .resizable()
                     .frame(width: 30, height:30)
                     .clipShape(Circle())
-                Text("DrakeMayeFan")
+                Text("CountDracula")
                     .font(.subheadline)
                     .fontWeight(.bold)
                       Spacer()
                 Image(systemName: "ellipsis")
                 
                 }
-            Image("myImage")
+            Image("dracula")
                 .resizable()
                 .scaledToFit()
         
@@ -50,7 +50,7 @@ struct EngagementView: View {
                 .fontWeight(.semibold)
                 .padding(.horizontal)
                 .frame(maxWidth: .infinity, alignment:.leading)
-        Text("Times were Simpler when he was QB")
+        Text("Waiting for Jonathan to arrive, can't wait to welcome him into my home")
             .font(.footnote)
             .padding(.horizontal)
             .frame(maxWidth: .infinity, alignment:.leading)
